@@ -8,7 +8,6 @@
 
 </div>
  
- <br>
  
   ### minhas redes socias aqui em baixo!
  
