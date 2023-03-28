@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/Leandro-Sousa-dev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leandro-Sousa-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leandro-Sousa-dev&&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leandro-Sousa-dev&&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Sousa-dev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
